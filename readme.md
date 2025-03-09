@@ -8,3 +8,5 @@ Further, we add in similarity indices to help with recomendation.
 
 The dataset is publicly available off of Kaggle [here](https://www.kaggle.com/datasets/andreuvallhernndez/myanimelist)
 
+Check the [Notebook](./anime_recommender_system.ipynb) to get started
+
